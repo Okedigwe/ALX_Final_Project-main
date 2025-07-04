@@ -17,21 +17,6 @@ Web Music Player is a simple web application that allows users to play and manag
 - **templates**: HTML templates used by Flask for rendering pages.
 - **README.md**: Documentation file providing information about the project.
 
-## Usage 
-Upon accessing the application link: https://razeetech.pythonanywhere.com/ , you will be directed to the main page displaying the music player interface and playlist.
-- Click on songs in the playlist to play them.
-- Use control buttons for play, pause, stop, rewind, and skip functionalities.
-- Adjust the volume using the volume control slider.
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-    $ git clone https://github.com/Razeetech/ALX_Final_Project.git
-    $ cd ALX_Final_Project
-    $ python app.py //To run the application on localhost
-
-
 ## Dependecies
 ```bash
     $ install -r requirements.txt
